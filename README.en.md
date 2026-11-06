@@ -1,4 +1,4 @@
-# Local Speech Transcription Desktop
+# 语音转文字桌面工具 / Local Speech Transcription Desktop
 
 A Chinese-language Windows desktop interface for batch transcription of local audio and video, with CPU/NVIDIA GPU options and optional speaker diarization. Built with WhisperX, faster-whisper and pyannote; this project does not train its own recognition models.
 
@@ -13,7 +13,7 @@ Download complete ZIP files from the **[123 Cloud mirror](https://1827361209.sha
 
 GitHub assets use English filenames. Download both online parts (.001 and .002), or all three offline parts (.001, .002 and .003), into one folder. Open .001 with 7-Zip and extract everything. Links and SHA-256 checksums are on the release page.
 
-The 123 Cloud packages have shorter code comments and the same functionality as the original GitHub release. Their ZIP checksums differ: use the [mirror checksums](docs/SHA256SUMS-123pan.txt) for 123 Cloud, or the release-page checksums for GitHub downloads.
+Checksums: [123 Cloud ZIP files](docs/SHA256SUMS-123pan.txt) · [GitHub split archives](https://github.com/twilight000000/speech-transcription-desktop/releases/download/v0.1.0-beta.1/SHA256SUMS.txt) · [GitHub complete archives](https://github.com/twilight000000/speech-transcription-desktop/releases/download/v0.1.0-beta.1/SHA256SUMS-full.txt).
 
 Both packages include the Silero voice activity detector. The download-on-demand package still contains large GPU runtime libraries.
 

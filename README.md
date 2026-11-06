@@ -1,4 +1,4 @@
-# 语音转文字桌面工具
+# 语音转文字桌面工具 / Local Speech Transcription Desktop
 
 把本地音频、视频批量转成文字。面向 Windows 用户，提供中文桌面界面，可选择 CPU 或 NVIDIA GPU，并按需区分说话人。
 
@@ -17,7 +17,7 @@
 
 GitHub 附件使用英文文件名：online 版有 2 卷，offline 版有 3 卷。下载同一版本的全部分卷到同一个文件夹，用 7-Zip 打开 .001 完整解压；下载入口、校验值和分卷说明均在上述发布页。
 
-123 云盘提供的是注释精简版，功能与 GitHub 原发布包相同，但压缩包校验值不同。网盘下载请对照[网盘包校验值](docs/SHA256SUMS-123pan.txt)；GitHub 下载请用发布页里的校验清单。
+文件校验：[123 云盘整包](docs/SHA256SUMS-123pan.txt) · [GitHub 分卷](https://github.com/twilight000000/speech-transcription-desktop/releases/download/v0.1.0-beta.1/SHA256SUMS.txt) · [GitHub 整包](https://github.com/twilight000000/speech-transcription-desktop/releases/download/v0.1.0-beta.1/SHA256SUMS-full.txt)。
 
 两种便携包均包含 Python 和运行依赖，无需另装 Python。按需下载版也带有较大的 CPU/GPU 运行环境，并不是几 MB 的小安装器。两种版本使用相同源码；区别是是否预装转写与说话人模型。内置人声检测组件两版都有。
 
