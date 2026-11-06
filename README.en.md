@@ -6,12 +6,14 @@ A Chinese-language Windows desktop interface for batch transcription of local au
 
 ## Downloads
 
-Use the project's **[Releases](https://github.com/twilight000000/speech-transcription-desktop/releases/tag/v0.1.0-beta.1)** page. GitHub's **Code → Download ZIP** contains source code, not a ready-to-run portable environment.
+Download complete ZIP files from the **[123 Cloud mirror](https://1827361209.share.123pan.cn/123pan/L9Y0jv-LXq7h)**, or split archives from **[GitHub Releases](https://github.com/twilight000000/speech-transcription-desktop/releases/tag/v0.1.0-beta.1)**. Both channels offer the two packages below. GitHub's **Code → Download ZIP** contains source code and requires a development environment.
 
 - **Download-on-demand (online)**: Python and dependencies included. Unzip everything, open `启动.cmd`, then use `首次使用 / 模型` to download the required model. Standard transcription needs no account. Downloading the optional pyannote speaker model requires accepting its Hugging Face conditions and providing a read token.
 - **Bundled models (offline)**: the same application with tiny/base/small/medium transcription models and community-1 diarization preloaded. Local use of included models needs no token.
 
 GitHub assets use English filenames. Download both online parts (.001 and .002), or all three offline parts (.001, .002 and .003), into one folder. Open .001 with 7-Zip and extract everything. Links and SHA-256 checksums are on the release page.
+
+The 123 Cloud packages have shorter code comments and the same functionality as the original GitHub release. Their ZIP checksums differ: use the [mirror checksums](docs/SHA256SUMS-123pan.txt) for 123 Cloud, or the release-page checksums for GitHub downloads.
 
 Both packages include the Silero voice activity detector. The download-on-demand package still contains large GPU runtime libraries.
 

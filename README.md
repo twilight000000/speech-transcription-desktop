@@ -8,7 +8,7 @@
 
 ## 下载哪一个
 
-请在项目的 **[Releases（发布版本）](https://github.com/twilight000000/speech-transcription-desktop/releases/tag/v0.1.0-beta.1)** 页面选择发布包。GitHub 的 **Code → Download ZIP** 是源码，需要开发环境，不能代替下面的便携包。
+可以从 **[123 云盘](https://1827361209.share.123pan.cn/123pan/L9Y0jv-LXq7h)** 下载完整 ZIP，也可以到 **[GitHub Releases](https://github.com/twilight000000/speech-transcription-desktop/releases/tag/v0.1.0-beta.1)** 下载分卷。两个渠道都提供下面这两种版本，选一个即可。GitHub 的 **Code → Download ZIP** 是源码，需要开发环境，不能代替便携包。
 
 | 版本 | 适合谁 | 第一次使用 | 账号 |
 | --- | --- | --- | --- |
@@ -16,6 +16,8 @@
 | 含模型完整版（offline） | 希望准备好后离线使用，或不方便访问模型网站 | 完整解压，双击“启动.cmd” | 内置模型本地运行不需要 Token |
 
 GitHub 附件使用英文文件名：online 版有 2 卷，offline 版有 3 卷。下载同一版本的全部分卷到同一个文件夹，用 7-Zip 打开 .001 完整解压；下载入口、校验值和分卷说明均在上述发布页。
+
+123 云盘提供的是注释精简版，功能与 GitHub 原发布包相同，但压缩包校验值不同。网盘下载请对照[网盘包校验值](docs/SHA256SUMS-123pan.txt)；GitHub 下载请用发布页里的校验清单。
 
 两种便携包均包含 Python 和运行依赖，无需另装 Python。按需下载版也带有较大的 CPU/GPU 运行环境，并不是几 MB 的小安装器。两种版本使用相同源码；区别是是否预装转写与说话人模型。内置人声检测组件两版都有。
 
