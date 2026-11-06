@@ -6,10 +6,12 @@ A Chinese-language Windows desktop interface for batch transcription of local au
 
 ## Downloads
 
-Use the project's **Releases** page. GitHub's **Code → Download ZIP** contains source code, not a ready-to-run portable environment.
+Use the project's **[Releases](https://github.com/twilight000000/speech-transcription-desktop/releases/tag/v0.1.0-beta.1)** page. GitHub's **Code → Download ZIP** contains source code, not a ready-to-run portable environment.
 
-- **Windows-按需下载模型.zip**: Python and dependencies included. Unzip everything, open `启动.cmd`, then use `首次使用 / 模型` to download the required model. Standard transcription needs no account. Downloading the optional pyannote speaker model requires accepting its Hugging Face conditions and providing a read token.
-- **Windows-含模型.zip**: the same application with tiny/base/small/medium transcription models and community-1 diarization preloaded. Local use of included models needs no token.
+- **Download-on-demand (online)**: Python and dependencies included. Unzip everything, open `启动.cmd`, then use `首次使用 / 模型` to download the required model. Standard transcription needs no account. Downloading the optional pyannote speaker model requires accepting its Hugging Face conditions and providing a read token.
+- **Bundled models (offline)**: the same application with tiny/base/small/medium transcription models and community-1 diarization preloaded. Local use of included models needs no token.
+
+GitHub assets use English filenames. Download both online parts (.001 and .002), or all three offline parts (.001, .002 and .003), into one folder. Open .001 with 7-Zip and extract everything. Links and SHA-256 checksums are on the release page.
 
 Both packages include the Silero voice activity detector. The download-on-demand package still contains large GPU runtime libraries.
 
