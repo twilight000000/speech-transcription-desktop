@@ -1,0 +1,1462 @@
+{
+  "python": "3.12.5",
+  "platform": "Windows x86_64",
+  "packages": [
+    {
+      "name": "aiohappyeyeballs",
+      "version": "2.6.1",
+      "license": "PSF-2.0",
+      "home_page": "",
+      "project_urls": [
+        "Bug Tracker, https://github.com/aio-libs/aiohappyeyeballs/issues",
+        "Changelog, https://github.com/aio-libs/aiohappyeyeballs/blob/main/CHANGELOG.md",
+        "Documentation, https://aiohappyeyeballs.readthedocs.io",
+        "Repository, https://github.com/aio-libs/aiohappyeyeballs"
+      ]
+    },
+    {
+      "name": "aiohttp",
+      "version": "3.13.3",
+      "license": "Apache-2.0 AND MIT",
+      "home_page": "",
+      "project_urls": [
+        "Homepage, https://github.com/aio-libs/aiohttp",
+        "Chat: Matrix, https://matrix.to/#/#aio-libs:matrix.org",
+        "Chat: Matrix Space, https://matrix.to/#/#aio-libs-space:matrix.org",
+        "CI: GitHub Actions, https://github.com/aio-libs/aiohttp/actions?query=workflow%3ACI",
+        "Coverage: codecov, https://codecov.io/github/aio-libs/aiohttp",
+        "Docs: Changelog, https://docs.aiohttp.org/en/stable/changes.html",
+        "Docs: RTD, https://docs.aiohttp.org",
+        "GitHub: issues, https://github.com/aio-libs/aiohttp/issues",
+        "GitHub: repo, https://github.com/aio-libs/aiohttp"
+      ]
+    },
+    {
+      "name": "aiosignal",
+      "version": "1.4.0",
+      "license": "Apache 2.0",
+      "home_page": "https://github.com/aio-libs/aiosignal",
+      "project_urls": [
+        "Chat: Gitter, https://gitter.im/aio-libs/Lobby",
+        "CI: GitHub Actions, https://github.com/aio-libs/aiosignal/actions",
+        "Coverage: codecov, https://codecov.io/github/aio-libs/aiosignal",
+        "Docs: RTD, https://docs.aiosignal.org",
+        "GitHub: issues, https://github.com/aio-libs/aiosignal/issues",
+        "GitHub: repo, https://github.com/aio-libs/aiosignal"
+      ]
+    },
+    {
+      "name": "alembic",
+      "version": "1.18.4",
+      "license": "MIT",
+      "home_page": "",
+      "project_urls": [
+        "Homepage, https://alembic.sqlalchemy.org",
+        "Documentation, https://alembic.sqlalchemy.org/en/latest/",
+        "Changelog, https://alembic.sqlalchemy.org/en/latest/changelog.html",
+        "Source, https://github.com/sqlalchemy/alembic/",
+        "Issue Tracker, https://github.com/sqlalchemy/alembic/issues/"
+      ]
+    },
+    {
+      "name": "annotated-types",
+      "version": "0.7.0",
+      "license": "",
+      "home_page": "",
+      "project_urls": [
+        "Homepage, https://github.com/annotated-types/annotated-types",
+        "Source, https://github.com/annotated-types/annotated-types",
+        "Changelog, https://github.com/annotated-types/annotated-types/releases"
+      ]
+    },
+    {
+      "name": "antlr4-python3-runtime",
+      "version": "4.9.3",
+      "license": "BSD",
+      "home_page": "http://www.antlr.org",
+      "project_urls": []
+    },
+    {
+      "name": "asteroid-filterbanks",
+      "version": "0.4.0",
+      "license": "MIT",
+      "home_page": "https://github.com/asteroid-team/asteroid-filterbanks",
+      "project_urls": []
+    },
+    {
+      "name": "attrs",
+      "version": "24.2.0",
+      "license": "MIT",
+      "home_page": "",
+      "project_urls": [
+        "Documentation, https://www.attrs.org/",
+        "Changelog, https://www.attrs.org/en/stable/changelog.html",
+        "GitHub, https://github.com/python-attrs/attrs",
+        "Funding, https://github.com/sponsors/hynek",
+        "Tidelift, https://tidelift.com/subscription/pkg/pypi-attrs?utm_source=pypi-attrs&utm_medium=pypi"
+      ]
+    },
+    {
+      "name": "av",
+      "version": "16.1.0",
+      "license": "BSD-3-Clause",
+      "home_page": "",
+      "project_urls": [
+        "Bug Tracker, https://github.com/PyAV-Org/PyAV/issues",
+        "Source Code, https://github.com/PyAV-Org/PyAV",
+        "homepage, https://pyav.basswood-io.com"
+      ]
+    },
+    {
+      "name": "blinker",
+      "version": "1.9.0",
+      "license": "",
+      "home_page": "",
+      "project_urls": [
+        "Chat, https://discord.gg/pallets",
+        "Documentation, https://blinker.readthedocs.io",
+        "Source, https://github.com/pallets-eco/blinker/"
+      ]
+    },
+    {
+      "name": "cachetools",
+      "version": "6.2.6",
+      "license": "MIT",
+      "home_page": "",
+      "project_urls": [
+        "Homepage, https://github.com/tkem/cachetools/"
+      ]
+    },
+    {
+      "name": "certifi",
+      "version": "2024.8.30",
+      "license": "MPL-2.0",
+      "home_page": "https://github.com/certifi/python-certifi",
+      "project_urls": [
+        "Source, https://github.com/certifi/python-certifi"
+      ]
+    },
+    {
+      "name": "cffi",
+      "version": "1.17.1",
+      "license": "MIT",
+      "home_page": "http://cffi.readthedocs.org",
+      "project_urls": [
+        "Documentation, http://cffi.readthedocs.org/",
+        "Source Code, https://github.com/python-cffi/cffi",
+        "Issue Tracker, https://github.com/python-cffi/cffi/issues",
+        "Changelog, https://cffi.readthedocs.io/en/latest/whatsnew.html",
+        "Downloads, https://github.com/python-cffi/cffi/releases",
+        "Contact, https://groups.google.com/forum/#!forum/python-cffi"
+      ]
+    },
+    {
+      "name": "charset-normalizer",
+      "version": "3.4.4",
+      "license": "MIT",
+      "home_page": "",
+      "project_urls": [
+        "Changelog, https://github.com/jawah/charset_normalizer/blob/master/CHANGELOG.md",
+        "Documentation, https://charset-normalizer.readthedocs.io/",
+        "Code, https://github.com/jawah/charset_normalizer",
+        "Issue tracker, https://github.com/jawah/charset_normalizer/issues"
+      ]
+    },
+    {
+      "name": "click",
+      "version": "8.1.7",
+      "license": "BSD-3-Clause",
+      "home_page": "https://palletsprojects.com/p/click/",
+      "project_urls": [
+        "Donate, https://palletsprojects.com/donate",
+        "Documentation, https://click.palletsprojects.com/",
+        "Changes, https://click.palletsprojects.com/changes/",
+        "Source Code, https://github.com/pallets/click/",
+        "Issue Tracker, https://github.com/pallets/click/issues/",
+        "Chat, https://discord.gg/pallets"
+      ]
+    },
+    {
+      "name": "code2prompt",
+      "version": "0.8.1",
+      "license": "MIT",
+      "home_page": "https://github.com/raphaelmansuy/code2prompt",
+      "project_urls": [
+        "Repository, https://github.com/raphaelmansuy/code2prompt"
+      ]
+    },
+    {
+      "name": "colorama",
+      "version": "0.4.6",
+      "license": "",
+      "home_page": "",
+      "project_urls": [
+        "Homepage, https://github.com/tartley/colorama"
+      ]
+    },
+    {
+      "name": "colorlog",
+      "version": "6.9.0",
+      "license": "MIT License",
+      "home_page": "https://github.com/borntyping/python-colorlog",
+      "project_urls": []
+    },
+    {
+      "name": "contourpy",
+      "version": "1.3.3",
+      "license": "See the distribution license files",
+      "home_page": "",
+      "project_urls": [
+        "Homepage, https://github.com/contourpy/contourpy",
+        "Changelog, https://contourpy.readthedocs.io/en/latest/changelog.html",
+        "Documentation, https://contourpy.readthedocs.io",
+        "Repository, https://github.com/contourpy/contourpy"
+      ]
+    },
+    {
+      "name": "ctranslate2",
+      "version": "4.7.1",
+      "license": "MIT",
+      "home_page": "https://opennmt.net",
+      "project_urls": [
+        "Documentation, https://opennmt.net/CTranslate2",
+        "Forum, https://forum.opennmt.net",
+        "Gitter, https://gitter.im/OpenNMT/CTranslate2",
+        "Source, https://github.com/OpenNMT/CTranslate2"
+      ]
+    },
+    {
+      "name": "cycler",
+      "version": "0.12.1",
+      "license": "See the distribution license files",
+      "home_page": "",
+      "project_urls": [
+        "homepage, https://matplotlib.org/cycler/",
+        "repository, https://github.com/matplotlib/cycler"
+      ]
+    },
+    {
+      "name": "ddt",
+      "version": "1.7.2",
+      "license": "",
+      "home_page": "https://github.com/datadriventests/ddt",
+      "project_urls": []
+    },
+    {
+      "name": "driver",
+      "version": "0.1.0",
+      "license": "BSD license",
+      "home_page": "https://github.com/yngtodd/driver",
+      "project_urls": []
+    },
+    {
+      "name": "einops",
+      "version": "0.8.2",
+      "license": "MIT",
+      "home_page": "",
+      "project_urls": [
+        "Homepage, https://github.com/arogozhnikov/einops"
+      ]
+    },
+    {
+      "name": "et_xmlfile",
+      "version": "2.0.0",
+      "license": "MIT",
+      "home_page": "https://foss.heptapod.net/openpyxl/et_xmlfile",
+      "project_urls": [
+        "Documentation, https://openpyxl.pages.heptapod.net/et_xmlfile/",
+        "Source, https://foss.heptapod.net/openpyxl/et_xmlfile",
+        "Tracker, https://foss.heptapod.net/openpyxl/et_xmfile/-/issues"
+      ]
+    },
+    {
+      "name": "faster-whisper",
+      "version": "1.2.1",
+      "license": "MIT",
+      "home_page": "https://github.com/SYSTRAN/faster-whisper",
+      "project_urls": []
+    },
+    {
+      "name": "filelock",
+      "version": "3.24.3",
+      "license": "MIT",
+      "home_page": "",
+      "project_urls": [
+        "Documentation, https://py-filelock.readthedocs.io",
+        "Homepage, https://github.com/tox-dev/py-filelock",
+        "Source, https://github.com/tox-dev/py-filelock",
+        "Tracker, https://github.com/tox-dev/py-filelock/issues"
+      ]
+    },
+    {
+      "name": "flatbuffers",
+      "version": "25.12.19",
+      "license": "Apache 2.0",
+      "home_page": "https://google.github.io/flatbuffers/",
+      "project_urls": [
+        "Documentation, https://google.github.io/flatbuffers/",
+        "Source, https://github.com/google/flatbuffers"
+      ]
+    },
+    {
+      "name": "fonttools",
+      "version": "4.61.1",
+      "license": "MIT",
+      "home_page": "http://github.com/fonttools/fonttools",
+      "project_urls": []
+    },
+    {
+      "name": "frozenlist",
+      "version": "1.8.0",
+      "license": "Apache-2.0",
+      "home_page": "https://github.com/aio-libs/frozenlist",
+      "project_urls": [
+        "Chat: Matrix, https://matrix.to/#/#aio-libs:matrix.org",
+        "Chat: Matrix Space, https://matrix.to/#/#aio-libs-space:matrix.org",
+        "CI: Github Actions, https://github.com/aio-libs/frozenlist/actions",
+        "Code of Conduct, https://github.com/aio-libs/.github/blob/master/CODE_OF_CONDUCT.md",
+        "Coverage: codecov, https://codecov.io/github/aio-libs/frozenlist",
+        "Docs: Changelog, https://github.com/aio-libs/frozenlist/blob/master/CHANGES.rst#changelog",
+        "Docs: RTD, https://frozenlist.aio-libs.org",
+        "GitHub: issues, https://github.com/aio-libs/frozenlist/issues",
+        "GitHub: repo, https://github.com/aio-libs/frozenlist"
+      ]
+    },
+    {
+      "name": "fsspec",
+      "version": "2026.2.0",
+      "license": "BSD-3-Clause",
+      "home_page": "",
+      "project_urls": [
+        "Changelog, https://filesystem-spec.readthedocs.io/en/latest/changelog.html",
+        "Documentation, https://filesystem-spec.readthedocs.io/en/latest/",
+        "Homepage, https://github.com/fsspec/filesystem_spec"
+      ]
+    },
+    {
+      "name": "gitdb",
+      "version": "4.0.12",
+      "license": "BSD License",
+      "home_page": "https://github.com/gitpython-developers/gitdb",
+      "project_urls": []
+    },
+    {
+      "name": "GitPython",
+      "version": "3.1.46",
+      "license": "BSD-3-Clause",
+      "home_page": "https://github.com/gitpython-developers/GitPython",
+      "project_urls": []
+    },
+    {
+      "name": "googleapis-common-protos",
+      "version": "1.72.0",
+      "license": "Apache 2.0",
+      "home_page": "",
+      "project_urls": [
+        "Repository, https://github.com/googleapis/google-cloud-python/tree/main/packages/googleapis-common-protos"
+      ]
+    },
+    {
+      "name": "greenlet",
+      "version": "3.3.1",
+      "license": "MIT AND Python-2.0",
+      "home_page": "",
+      "project_urls": [
+        "Homepage, https://greenlet.readthedocs.io",
+        "Documentation, https://greenlet.readthedocs.io",
+        "Repository, https://github.com/python-greenlet/greenlet",
+        "Issues, https://github.com/python-greenlet/greenlet/issues",
+        "Changelog, https://greenlet.readthedocs.io/en/latest/changes.html"
+      ]
+    },
+    {
+      "name": "grpcio",
+      "version": "1.78.1",
+      "license": "Apache-2.0",
+      "home_page": "",
+      "project_urls": [
+        "Homepage, https://grpc.io",
+        "Source Code, https://github.com/grpc/grpc",
+        "Bug Tracker, https://github.com/grpc/grpc/issues",
+        "Documentation, https://grpc.github.io/grpc/python"
+      ]
+    },
+    {
+      "name": "h11",
+      "version": "0.14.0",
+      "license": "MIT",
+      "home_page": "https://github.com/python-hyper/h11",
+      "project_urls": []
+    },
+    {
+      "name": "hf-xet",
+      "version": "1.2.0",
+      "license": "Apache-2.0",
+      "home_page": "",
+      "project_urls": [
+        "Homepage, https://github.com/huggingface/xet-core",
+        "Documentation, https://huggingface.co/docs/hub/en/storage-backends#using-xet-storage",
+        "Issues, https://github.com/huggingface/xet-core/issues",
+        "Repository, https://github.com/huggingface/xet-core.git"
+      ]
+    },
+    {
+      "name": "huggingface_hub",
+      "version": "0.36.2",
+      "license": "Apache",
+      "home_page": "https://github.com/huggingface/huggingface_hub",
+      "project_urls": []
+    },
+    {
+      "name": "idna",
+      "version": "3.8",
+      "license": "",
+      "home_page": "",
+      "project_urls": [
+        "Changelog, https://github.com/kjd/idna/blob/master/HISTORY.rst",
+        "Issue tracker, https://github.com/kjd/idna/issues",
+        "Source, https://github.com/kjd/idna"
+      ]
+    },
+    {
+      "name": "importlib_metadata",
+      "version": "8.7.1",
+      "license": "Apache-2.0",
+      "home_page": "",
+      "project_urls": [
+        "Source, https://github.com/python/importlib_metadata"
+      ]
+    },
+    {
+      "name": "Jinja2",
+      "version": "3.1.6",
+      "license": "",
+      "home_page": "",
+      "project_urls": [
+        "Changes, https://jinja.palletsprojects.com/changes/",
+        "Chat, https://discord.gg/pallets",
+        "Documentation, https://jinja.palletsprojects.com/",
+        "Donate, https://palletsprojects.com/donate",
+        "Source, https://github.com/pallets/jinja/"
+      ]
+    },
+    {
+      "name": "joblib",
+      "version": "1.5.3",
+      "license": "BSD-3-Clause",
+      "home_page": "",
+      "project_urls": [
+        "Homepage, https://joblib.readthedocs.io",
+        "Source, https://github.com/joblib/joblib"
+      ]
+    },
+    {
+      "name": "jsonschema",
+      "version": "4.26.0",
+      "license": "MIT",
+      "home_page": "",
+      "project_urls": [
+        "Homepage, https://github.com/python-jsonschema/jsonschema",
+        "Documentation, https://python-jsonschema.readthedocs.io/",
+        "Issues, https://github.com/python-jsonschema/jsonschema/issues/",
+        "Funding, https://github.com/sponsors/Julian",
+        "Tidelift, https://tidelift.com/subscription/pkg/pypi-jsonschema?utm_source=pypi-jsonschema&utm_medium=referral&utm_campaign=pypi-link",
+        "Changelog, https://github.com/python-jsonschema/jsonschema/blob/main/CHANGELOG.rst",
+        "Source, https://github.com/python-jsonschema/jsonschema"
+      ]
+    },
+    {
+      "name": "jsonschema-specifications",
+      "version": "2025.9.1",
+      "license": "MIT",
+      "home_page": "",
+      "project_urls": [
+        "Documentation, https://jsonschema-specifications.readthedocs.io/",
+        "Homepage, https://github.com/python-jsonschema/jsonschema-specifications",
+        "Issues, https://github.com/python-jsonschema/jsonschema-specifications/issues/",
+        "Funding, https://github.com/sponsors/Julian",
+        "Tidelift, https://tidelift.com/subscription/pkg/pypi-jsonschema-specifications?utm_source=pypi-jsonschema-specifications&utm_medium=referral&utm_campaign=pypi-link",
+        "Source, https://github.com/python-jsonschema/jsonschema-specifications"
+      ]
+    },
+    {
+      "name": "julius",
+      "version": "0.2.7",
+      "license": "MIT License",
+      "home_page": "https://github.com/adefossez/julius",
+      "project_urls": []
+    },
+    {
+      "name": "kiwisolver",
+      "version": "1.4.9",
+      "license": "See the distribution license files",
+      "home_page": "",
+      "project_urls": [
+        "homepage, https://github.com/nucleic/kiwi",
+        "documentation, https://kiwisolver.readthedocs.io/en/latest/",
+        "repository, https://github.com/nucleic/kiwi",
+        "changelog, https://github.com/nucleic/kiwi/blob/main/releasenotes.rst"
+      ]
+    },
+    {
+      "name": "lightning",
+      "version": "2.6.1",
+      "license": "Apache-2.0",
+      "home_page": "https://github.com/Lightning-AI/lightning",
+      "project_urls": [
+        "Bug Tracker, https://github.com/Lightning-AI/pytorch-lightning/issues",
+        "Documentation, https://lightning.ai/lightning-docs",
+        "Source Code, https://github.com/Lightning-AI/lightning"
+      ]
+    },
+    {
+      "name": "lightning-utilities",
+      "version": "0.15.2",
+      "license": "Apache-2.0",
+      "home_page": "https://github.com/Lightning-AI/utilities",
+      "project_urls": [
+        "Bug Tracker, https://github.com/Lightning-AI/utilities/issues",
+        "Documentation, https://dev-toolbox.rtfd.io/en/latest/",
+        "Source Code, https://github.com/Lightning-AI/utilities"
+      ]
+    },
+    {
+      "name": "Mako",
+      "version": "1.3.10",
+      "license": "MIT",
+      "home_page": "https://www.makotemplates.org/",
+      "project_urls": [
+        "Documentation, https://docs.makotemplates.org",
+        "Issue Tracker, https://github.com/sqlalchemy/mako"
+      ]
+    },
+    {
+      "name": "markdown-it-py",
+      "version": "4.0.0",
+      "license": "",
+      "home_page": "",
+      "project_urls": [
+        "Documentation, https://markdown-it-py.readthedocs.io",
+        "Homepage, https://github.com/executablebooks/markdown-it-py"
+      ]
+    },
+    {
+      "name": "MarkupSafe",
+      "version": "3.0.3",
+      "license": "BSD-3-Clause",
+      "home_page": "",
+      "project_urls": [
+        "Donate, https://palletsprojects.com/donate",
+        "Documentation, https://markupsafe.palletsprojects.com/",
+        "Changes, https://markupsafe.palletsprojects.com/page/changes/",
+        "Source, https://github.com/pallets/markupsafe/",
+        "Chat, https://discord.gg/pallets"
+      ]
+    },
+    {
+      "name": "matplotlib",
+      "version": "3.10.8",
+      "license": "See the distribution license files",
+      "home_page": "",
+      "project_urls": [
+        "Homepage, https://matplotlib.org",
+        "Download, https://matplotlib.org/stable/install/index.html",
+        "Documentation, https://matplotlib.org",
+        "Source Code, https://github.com/matplotlib/matplotlib",
+        "Bug Tracker, https://github.com/matplotlib/matplotlib/issues",
+        "Forum, https://discourse.matplotlib.org/",
+        "Donate, https://numfocus.org/donate-to-matplotlib"
+      ]
+    },
+    {
+      "name": "mdurl",
+      "version": "0.1.2",
+      "license": "",
+      "home_page": "",
+      "project_urls": [
+        "Homepage, https://github.com/executablebooks/mdurl"
+      ]
+    },
+    {
+      "name": "mpmath",
+      "version": "1.3.0",
+      "license": "BSD",
+      "home_page": "http://mpmath.org/",
+      "project_urls": [
+        "Source, https://github.com/fredrik-johansson/mpmath",
+        "Tracker, https://github.com/fredrik-johansson/mpmath/issues",
+        "Documentation, http://mpmath.org/doc/current/"
+      ]
+    },
+    {
+      "name": "multidict",
+      "version": "6.7.1",
+      "license": "Apache License 2.0",
+      "home_page": "https://github.com/aio-libs/multidict",
+      "project_urls": [
+        "Chat: Matrix, https://matrix.to/#/#aio-libs:matrix.org",
+        "Chat: Matrix Space, https://matrix.to/#/#aio-libs-space:matrix.org",
+        "CI: GitHub, https://github.com/aio-libs/multidict/actions",
+        "Code of Conduct, https://github.com/aio-libs/.github/blob/master/CODE_OF_CONDUCT.md",
+        "Coverage: codecov, https://codecov.io/github/aio-libs/multidict",
+        "Docs: Changelog, https://multidict.aio-libs.org/en/latest/changes/",
+        "Docs: RTD, https://multidict.aio-libs.org",
+        "GitHub: issues, https://github.com/aio-libs/multidict/issues",
+        "GitHub: repo, https://github.com/aio-libs/multidict"
+      ]
+    },
+    {
+      "name": "narwhals",
+      "version": "2.16.0",
+      "license": "See the distribution license files",
+      "home_page": "",
+      "project_urls": [
+        "Homepage, https://github.com/narwhals-dev/narwhals",
+        "Documentation, https://narwhals-dev.github.io/narwhals/",
+        "Repository, https://github.com/narwhals-dev/narwhals",
+        "Bug Tracker, https://github.com/narwhals-dev/narwhals/issues"
+      ]
+    },
+    {
+      "name": "networkx",
+      "version": "3.6.1",
+      "license": "BSD-3-Clause",
+      "home_page": "",
+      "project_urls": [
+        "Homepage, https://networkx.org/",
+        "Bug Tracker, https://github.com/networkx/networkx/issues",
+        "Documentation, https://networkx.org/documentation/stable/",
+        "Source Code, https://github.com/networkx/networkx"
+      ]
+    },
+    {
+      "name": "nltk",
+      "version": "3.9.2",
+      "license": "Apache License, Version 2.0",
+      "home_page": "https://www.nltk.org/",
+      "project_urls": [
+        "Documentation, https://www.nltk.org/",
+        "Source Code, https://github.com/nltk/nltk",
+        "Issue Tracker, https://github.com/nltk/nltk/issues"
+      ]
+    },
+    {
+      "name": "numpy",
+      "version": "2.4.2",
+      "license": "BSD-3-Clause AND 0BSD AND MIT AND Zlib AND CC0-1.0",
+      "home_page": "",
+      "project_urls": [
+        "homepage, https://numpy.org",
+        "documentation, https://numpy.org/doc/",
+        "source, https://github.com/numpy/numpy",
+        "download, https://pypi.org/project/numpy/#files",
+        "tracker, https://github.com/numpy/numpy/issues",
+        "release notes, https://numpy.org/doc/stable/release"
+      ]
+    },
+    {
+      "name": "omegaconf",
+      "version": "2.3.0",
+      "license": "",
+      "home_page": "https://github.com/omry/omegaconf",
+      "project_urls": []
+    },
+    {
+      "name": "onnxruntime",
+      "version": "1.24.2",
+      "license": "MIT License",
+      "home_page": "https://onnxruntime.ai",
+      "project_urls": []
+    },
+    {
+      "name": "openpyxl",
+      "version": "3.1.5",
+      "license": "MIT",
+      "home_page": "https://openpyxl.readthedocs.io",
+      "project_urls": [
+        "Documentation, https://openpyxl.readthedocs.io/en/stable/",
+        "Source, https://foss.heptapod.net/openpyxl/openpyxl",
+        "Tracker, https://foss.heptapod.net/openpyxl/openpyxl/-/issues"
+      ]
+    },
+    {
+      "name": "opentelemetry-api",
+      "version": "1.39.1",
+      "license": "Apache-2.0",
+      "home_page": "",
+      "project_urls": [
+        "Homepage, https://github.com/open-telemetry/opentelemetry-python/tree/main/opentelemetry-api",
+        "Repository, https://github.com/open-telemetry/opentelemetry-python"
+      ]
+    },
+    {
+      "name": "opentelemetry-exporter-otlp",
+      "version": "1.39.1",
+      "license": "Apache-2.0",
+      "home_page": "",
+      "project_urls": [
+        "Homepage, https://github.com/open-telemetry/opentelemetry-python/tree/main/exporter/opentelemetry-exporter-otlp",
+        "Repository, https://github.com/open-telemetry/opentelemetry-python"
+      ]
+    },
+    {
+      "name": "opentelemetry-exporter-otlp-proto-common",
+      "version": "1.39.1",
+      "license": "Apache-2.0",
+      "home_page": "",
+      "project_urls": [
+        "Homepage, https://github.com/open-telemetry/opentelemetry-python/tree/main/exporter/opentelemetry-exporter-otlp-proto-common",
+        "Repository, https://github.com/open-telemetry/opentelemetry-python"
+      ]
+    },
+    {
+      "name": "opentelemetry-exporter-otlp-proto-grpc",
+      "version": "1.39.1",
+      "license": "Apache-2.0",
+      "home_page": "",
+      "project_urls": [
+        "Homepage, https://github.com/open-telemetry/opentelemetry-python/tree/main/exporter/opentelemetry-exporter-otlp-proto-grpc",
+        "Repository, https://github.com/open-telemetry/opentelemetry-python"
+      ]
+    },
+    {
+      "name": "opentelemetry-exporter-otlp-proto-http",
+      "version": "1.39.1",
+      "license": "Apache-2.0",
+      "home_page": "",
+      "project_urls": [
+        "Homepage, https://github.com/open-telemetry/opentelemetry-python/tree/main/exporter/opentelemetry-exporter-otlp-proto-http",
+        "Repository, https://github.com/open-telemetry/opentelemetry-python"
+      ]
+    },
+    {
+      "name": "opentelemetry-proto",
+      "version": "1.39.1",
+      "license": "Apache-2.0",
+      "home_page": "",
+      "project_urls": [
+        "Homepage, https://github.com/open-telemetry/opentelemetry-python/tree/main/opentelemetry-proto",
+        "Repository, https://github.com/open-telemetry/opentelemetry-python"
+      ]
+    },
+    {
+      "name": "opentelemetry-sdk",
+      "version": "1.39.1",
+      "license": "Apache-2.0",
+      "home_page": "",
+      "project_urls": [
+        "Homepage, https://github.com/open-telemetry/opentelemetry-python/tree/main/opentelemetry-sdk",
+        "Repository, https://github.com/open-telemetry/opentelemetry-python"
+      ]
+    },
+    {
+      "name": "opentelemetry-semantic-conventions",
+      "version": "0.60b1",
+      "license": "Apache-2.0",
+      "home_page": "",
+      "project_urls": [
+        "Homepage, https://github.com/open-telemetry/opentelemetry-python/tree/main/opentelemetry-semantic-conventions",
+        "Repository, https://github.com/open-telemetry/opentelemetry-python"
+      ]
+    },
+    {
+      "name": "optuna",
+      "version": "4.7.0",
+      "license": "",
+      "home_page": "",
+      "project_urls": [
+        "homepage, https://optuna.org/",
+        "repository, https://github.com/optuna/optuna",
+        "documentation, https://optuna.readthedocs.io",
+        "bugtracker, https://github.com/optuna/optuna/issues"
+      ]
+    },
+    {
+      "name": "outcome",
+      "version": "1.3.0.post0",
+      "license": "MIT OR Apache-2.0",
+      "home_page": "https://github.com/python-trio/outcome",
+      "project_urls": [
+        "Documentation, https://outcome.readthedocs.io/en/latest/",
+        "Chat, https://gitter.im/python-trio/general",
+        "Changelog, https://outcome.readthedocs.io/en/latest/history.html"
+      ]
+    },
+    {
+      "name": "packaging",
+      "version": "26.0",
+      "license": "Apache-2.0 OR BSD-2-Clause",
+      "home_page": "",
+      "project_urls": [
+        "Documentation, https://packaging.pypa.io/",
+        "Source, https://github.com/pypa/packaging"
+      ]
+    },
+    {
+      "name": "pandas",
+      "version": "2.3.3",
+      "license": "See the distribution license files",
+      "home_page": "",
+      "project_urls": [
+        "homepage, https://pandas.pydata.org",
+        "documentation, https://pandas.pydata.org/docs/",
+        "repository, https://github.com/pandas-dev/pandas"
+      ]
+    },
+    {
+      "name": "pillow",
+      "version": "12.1.1",
+      "license": "MIT-CMU",
+      "home_page": "",
+      "project_urls": [
+        "Changelog, https://github.com/python-pillow/Pillow/releases",
+        "Documentation, https://pillow.readthedocs.io",
+        "Funding, https://tidelift.com/subscription/pkg/pypi-pillow?utm_source=pypi-pillow&utm_medium=pypi",
+        "Homepage, https://python-pillow.github.io",
+        "Mastodon, https://fosstodon.org/@pillow",
+        "Release notes, https://pillow.readthedocs.io/en/stable/releasenotes/index.html",
+        "Source, https://github.com/python-pillow/Pillow"
+      ]
+    },
+    {
+      "name": "pip",
+      "version": "26.0.1",
+      "license": "MIT",
+      "home_page": "",
+      "project_urls": [
+        "Changelog, https://pip.pypa.io/en/stable/news/",
+        "Documentation, https://pip.pypa.io",
+        "Homepage, https://pip.pypa.io/",
+        "Source, https://github.com/pypa/pip"
+      ]
+    },
+    {
+      "name": "primePy",
+      "version": "1.3",
+      "license": "UNKNOWN",
+      "home_page": "https://github.com/janaindrajit/primePy",
+      "project_urls": []
+    },
+    {
+      "name": "prompt_toolkit",
+      "version": "3.0.52",
+      "license": "",
+      "home_page": "",
+      "project_urls": [
+        "Homepage, https://github.com/prompt-toolkit/python-prompt-toolkit",
+        "Documentation, https://python-prompt-toolkit.readthedocs.io/en/stable/"
+      ]
+    },
+    {
+      "name": "propcache",
+      "version": "0.4.1",
+      "license": "Apache-2.0",
+      "home_page": "https://github.com/aio-libs/propcache",
+      "project_urls": [
+        "Chat: Matrix, https://matrix.to/#/#aio-libs:matrix.org",
+        "Chat: Matrix Space, https://matrix.to/#/#aio-libs-space:matrix.org",
+        "CI: GitHub Workflows, https://github.com/aio-libs/propcache/actions?query=branch:master",
+        "Code of Conduct, https://github.com/aio-libs/.github/blob/master/CODE_OF_CONDUCT.md",
+        "Coverage: codecov, https://codecov.io/github/aio-libs/propcache",
+        "Docs: Changelog, https://propcache.readthedocs.io/en/latest/changes/",
+        "Docs: RTD, https://propcache.readthedocs.io",
+        "GitHub: issues, https://github.com/aio-libs/propcache/issues",
+        "GitHub: repo, https://github.com/aio-libs/propcache"
+      ]
+    },
+    {
+      "name": "protobuf",
+      "version": "6.33.5",
+      "license": "3-Clause BSD License",
+      "home_page": "https://developers.google.com/protocol-buffers/",
+      "project_urls": []
+    },
+    {
+      "name": "pyannote-audio",
+      "version": "4.0.4",
+      "license": "",
+      "home_page": "",
+      "project_urls": []
+    },
+    {
+      "name": "pyannote-core",
+      "version": "6.0.1",
+      "license": "",
+      "home_page": "",
+      "project_urls": []
+    },
+    {
+      "name": "pyannote-database",
+      "version": "6.1.1",
+      "license": "",
+      "home_page": "",
+      "project_urls": []
+    },
+    {
+      "name": "pyannote-metrics",
+      "version": "4.0.0",
+      "license": "",
+      "home_page": "",
+      "project_urls": []
+    },
+    {
+      "name": "pyannote-pipeline",
+      "version": "4.0.0",
+      "license": "",
+      "home_page": "",
+      "project_urls": []
+    },
+    {
+      "name": "pyannoteai-sdk",
+      "version": "0.4.0",
+      "license": "",
+      "home_page": "",
+      "project_urls": []
+    },
+    {
+      "name": "pycparser",
+      "version": "2.22",
+      "license": "BSD-3-Clause",
+      "home_page": "https://github.com/eliben/pycparser",
+      "project_urls": []
+    },
+    {
+      "name": "pydantic",
+      "version": "2.12.2",
+      "license": "MIT",
+      "home_page": "",
+      "project_urls": [
+        "Homepage, https://github.com/pydantic/pydantic",
+        "Documentation, https://docs.pydantic.dev",
+        "Funding, https://github.com/sponsors/samuelcolvin",
+        "Source, https://github.com/pydantic/pydantic",
+        "Changelog, https://docs.pydantic.dev/latest/changelog/"
+      ]
+    },
+    {
+      "name": "pydantic_core",
+      "version": "2.41.4",
+      "license": "MIT",
+      "home_page": "https://github.com/pydantic/pydantic-core",
+      "project_urls": [
+        "Homepage, https://github.com/pydantic/pydantic-core",
+        "Funding, https://github.com/sponsors/samuelcolvin",
+        "Source, https://github.com/pydantic/pydantic-core"
+      ]
+    },
+    {
+      "name": "Pygments",
+      "version": "2.19.2",
+      "license": "BSD-2-Clause",
+      "home_page": "",
+      "project_urls": [
+        "Homepage, https://pygments.org",
+        "Documentation, https://pygments.org/docs",
+        "Source, https://github.com/pygments/pygments",
+        "Bug Tracker, https://github.com/pygments/pygments/issues",
+        "Changelog, https://github.com/pygments/pygments/blob/master/CHANGES"
+      ]
+    },
+    {
+      "name": "pyparsing",
+      "version": "3.3.2",
+      "license": "MIT",
+      "home_page": "",
+      "project_urls": [
+        "Documentation, https://pyparsing-docs.readthedocs.io/en/latest/",
+        "Homepage, https://github.com/pyparsing/pyparsing/",
+        "Source, https://github.com/pyparsing/pyparsing.git"
+      ]
+    },
+    {
+      "name": "pyperclip",
+      "version": "1.11.0",
+      "license": "BSD",
+      "home_page": "",
+      "project_urls": [
+        "Homepage, https://github.com/asweigart/pyperclip"
+      ]
+    },
+    {
+      "name": "PySocks",
+      "version": "1.7.1",
+      "license": "BSD",
+      "home_page": "https://github.com/Anorov/PySocks",
+      "project_urls": []
+    },
+    {
+      "name": "python-dateutil",
+      "version": "2.9.0.post0",
+      "license": "Dual License",
+      "home_page": "https://github.com/dateutil/dateutil",
+      "project_urls": [
+        "Documentation, https://dateutil.readthedocs.io/en/stable/",
+        "Source, https://github.com/dateutil/dateutil"
+      ]
+    },
+    {
+      "name": "pytorch-lightning",
+      "version": "2.6.1",
+      "license": "Apache-2.0",
+      "home_page": "https://github.com/Lightning-AI/lightning",
+      "project_urls": [
+        "Bug Tracker, https://github.com/Lightning-AI/pytorch-lightning/issues",
+        "Documentation, https://pytorch-lightning.rtfd.io/en/latest/",
+        "Source Code, https://github.com/Lightning-AI/lightning"
+      ]
+    },
+    {
+      "name": "pytorch-metric-learning",
+      "version": "2.9.0",
+      "license": "UNKNOWN",
+      "home_page": "https://github.com/KevinMusgrave/pytorch-metric-learning",
+      "project_urls": []
+    },
+    {
+      "name": "pytz",
+      "version": "2025.2",
+      "license": "MIT",
+      "home_page": "http://pythonhosted.org/pytz",
+      "project_urls": []
+    },
+    {
+      "name": "PyYAML",
+      "version": "6.0.3",
+      "license": "MIT",
+      "home_page": "https://pyyaml.org/",
+      "project_urls": [
+        "Bug Tracker, https://github.com/yaml/pyyaml/issues",
+        "CI, https://github.com/yaml/pyyaml/actions",
+        "Documentation, https://pyyaml.org/wiki/PyYAMLDocumentation",
+        "Mailing lists, http://lists.sourceforge.net/lists/listinfo/yaml-core",
+        "Source Code, https://github.com/yaml/pyyaml"
+      ]
+    },
+    {
+      "name": "referencing",
+      "version": "0.37.0",
+      "license": "MIT",
+      "home_page": "",
+      "project_urls": [
+        "Documentation, https://referencing.readthedocs.io/",
+        "Homepage, https://github.com/python-jsonschema/referencing",
+        "Issues, https://github.com/python-jsonschema/referencing/issues/",
+        "Funding, https://github.com/sponsors/Julian",
+        "Tidelift, https://tidelift.com/subscription/pkg/pypi-referencing?utm_source=pypi-referencing&utm_medium=referral&utm_campaign=pypi-link",
+        "Changelog, https://referencing.readthedocs.io/en/stable/changes/",
+        "Source, https://github.com/python-jsonschema/referencing"
+      ]
+    },
+    {
+      "name": "regex",
+      "version": "2025.9.18",
+      "license": "Apache-2.0 AND CNRI-Python",
+      "home_page": "",
+      "project_urls": [
+        "Homepage, https://github.com/mrabarnett/mrab-regex"
+      ]
+    },
+    {
+      "name": "requests",
+      "version": "2.32.5",
+      "license": "Apache-2.0",
+      "home_page": "https://requests.readthedocs.io",
+      "project_urls": [
+        "Documentation, https://requests.readthedocs.io",
+        "Source, https://github.com/psf/requests"
+      ]
+    },
+    {
+      "name": "rich",
+      "version": "13.9.4",
+      "license": "MIT",
+      "home_page": "https://github.com/Textualize/rich",
+      "project_urls": [
+        "Documentation, https://rich.readthedocs.io/en/latest/"
+      ]
+    },
+    {
+      "name": "rpds-py",
+      "version": "0.30.0",
+      "license": "MIT",
+      "home_page": "",
+      "project_urls": [
+        "Documentation, https://rpds.readthedocs.io/",
+        "Homepage, https://github.com/crate-py/rpds",
+        "Issues, https://github.com/crate-py/rpds/issues/",
+        "Funding, https://github.com/sponsors/Julian",
+        "Tidelift, https://tidelift.com/subscription/pkg/pypi-rpds-py?utm_source=pypi-rpds-py&utm_medium=referral&utm_campaign=pypi-link",
+        "Source, https://github.com/crate-py/rpds",
+        "Upstream, https://github.com/orium/rpds"
+      ]
+    },
+    {
+      "name": "safetensors",
+      "version": "0.7.0",
+      "license": "",
+      "home_page": "",
+      "project_urls": [
+        "Homepage, https://github.com/huggingface/safetensors",
+        "Source, https://github.com/huggingface/safetensors"
+      ]
+    },
+    {
+      "name": "scikit-learn",
+      "version": "1.8.0",
+      "license": "BSD-3-Clause",
+      "home_page": "",
+      "project_urls": [
+        "homepage, https://scikit-learn.org",
+        "source, https://github.com/scikit-learn/scikit-learn",
+        "download, https://pypi.org/project/scikit-learn/#files",
+        "tracker, https://github.com/scikit-learn/scikit-learn/issues",
+        "release notes, https://scikit-learn.org/stable/whats_new"
+      ]
+    },
+    {
+      "name": "scipy",
+      "version": "1.17.0",
+      "license": "See the distribution license files",
+      "home_page": "",
+      "project_urls": [
+        "homepage, https://scipy.org/",
+        "documentation, https://docs.scipy.org/doc/scipy/",
+        "source, https://github.com/scipy/scipy",
+        "download, https://github.com/scipy/scipy/releases",
+        "tracker, https://github.com/scipy/scipy/issues"
+      ]
+    },
+    {
+      "name": "selenium",
+      "version": "4.4.3",
+      "license": "Apache 2.0",
+      "home_page": "https://www.selenium.dev",
+      "project_urls": []
+    },
+    {
+      "name": "setuptools",
+      "version": "82.0.0",
+      "license": "MIT",
+      "home_page": "",
+      "project_urls": [
+        "Source, https://github.com/pypa/setuptools",
+        "Documentation, https://setuptools.pypa.io/",
+        "Changelog, https://setuptools.pypa.io/en/stable/history.html"
+      ]
+    },
+    {
+      "name": "six",
+      "version": "1.17.0",
+      "license": "MIT",
+      "home_page": "https://github.com/benjaminp/six",
+      "project_urls": []
+    },
+    {
+      "name": "smmap",
+      "version": "5.0.2",
+      "license": "BSD-3-Clause",
+      "home_page": "https://github.com/gitpython-developers/smmap",
+      "project_urls": []
+    },
+    {
+      "name": "sniffio",
+      "version": "1.3.1",
+      "license": "MIT OR Apache-2.0",
+      "home_page": "",
+      "project_urls": [
+        "Homepage, https://github.com/python-trio/sniffio",
+        "Documentation, https://sniffio.readthedocs.io/",
+        "Changelog, https://sniffio.readthedocs.io/en/latest/history.html"
+      ]
+    },
+    {
+      "name": "sortedcontainers",
+      "version": "2.4.0",
+      "license": "Apache 2.0",
+      "home_page": "http://www.grantjenks.com/docs/sortedcontainers/",
+      "project_urls": []
+    },
+    {
+      "name": "SQLAlchemy",
+      "version": "2.0.46",
+      "license": "MIT",
+      "home_page": "https://www.sqlalchemy.org",
+      "project_urls": [
+        "Documentation, https://docs.sqlalchemy.org",
+        "Issue Tracker, https://github.com/sqlalchemy/sqlalchemy/"
+      ]
+    },
+    {
+      "name": "sympy",
+      "version": "1.14.0",
+      "license": "BSD",
+      "home_page": "https://sympy.org",
+      "project_urls": [
+        "Source, https://github.com/sympy/sympy"
+      ]
+    },
+    {
+      "name": "tabulate",
+      "version": "0.9.0",
+      "license": "MIT",
+      "home_page": "",
+      "project_urls": [
+        "Homepage, https://github.com/astanin/python-tabulate"
+      ]
+    },
+    {
+      "name": "tenacity",
+      "version": "9.1.4",
+      "license": "Apache 2.0",
+      "home_page": "https://github.com/jd/tenacity",
+      "project_urls": []
+    },
+    {
+      "name": "threadpoolctl",
+      "version": "3.6.0",
+      "license": "BSD-3-Clause",
+      "home_page": "https://github.com/joblib/threadpoolctl",
+      "project_urls": []
+    },
+    {
+      "name": "tiktoken",
+      "version": "0.7.0",
+      "license": "See the distribution license files",
+      "home_page": "",
+      "project_urls": [
+        "homepage, https://github.com/openai/tiktoken",
+        "repository, https://github.com/openai/tiktoken",
+        "changelog, https://github.com/openai/tiktoken/blob/main/CHANGELOG.md"
+      ]
+    },
+    {
+      "name": "tokenizers",
+      "version": "0.22.2",
+      "license": "",
+      "home_page": "",
+      "project_urls": [
+        "Homepage, https://github.com/huggingface/tokenizers",
+        "Source, https://github.com/huggingface/tokenizers"
+      ]
+    },
+    {
+      "name": "toml",
+      "version": "0.10.2",
+      "license": "MIT",
+      "home_page": "https://github.com/uiri/toml",
+      "project_urls": []
+    },
+    {
+      "name": "torch",
+      "version": "2.8.0+cu128",
+      "license": "BSD-3-Clause",
+      "home_page": "https://pytorch.org/",
+      "project_urls": [
+        "Homepage, https://pytorch.org/",
+        "Documentation, https://pytorch.org/docs/",
+        "Source, https://github.com/pytorch/pytorch",
+        "Forum, https://discuss.pytorch.org/"
+      ]
+    },
+    {
+      "name": "torch-audiomentations",
+      "version": "0.12.0",
+      "license": "MIT",
+      "home_page": "https://github.com/asteroid-team/torch-audiomentations",
+      "project_urls": []
+    },
+    {
+      "name": "torch_pitch_shift",
+      "version": "1.2.5",
+      "license": "",
+      "home_page": "https://github.com/KentoNishi/torch-pitch-shift",
+      "project_urls": []
+    },
+    {
+      "name": "torchaudio",
+      "version": "2.8.0+cu128",
+      "license": "",
+      "home_page": "https://github.com/pytorch/audio",
+      "project_urls": []
+    },
+    {
+      "name": "torchmetrics",
+      "version": "1.8.2",
+      "license": "Apache-2.0",
+      "home_page": "https://github.com/Lightning-AI/torchmetrics",
+      "project_urls": [
+        "Bug Tracker, https://github.com/Lightning-AI/torchmetrics/issues",
+        "Documentation, https://torchmetrics.rtfd.io/en/latest/",
+        "Source Code, https://github.com/Lightning-AI/torchmetrics"
+      ]
+    },
+    {
+      "name": "tornado",
+      "version": "6.5.4",
+      "license": "Apache-2.0",
+      "home_page": "http://www.tornadoweb.org/",
+      "project_urls": [
+        "Source, https://github.com/tornadoweb/tornado"
+      ]
+    },
+    {
+      "name": "tqdm",
+      "version": "4.67.1",
+      "license": "MPL-2.0 AND MIT",
+      "home_page": "",
+      "project_urls": [
+        "homepage, https://tqdm.github.io",
+        "repository, https://github.com/tqdm/tqdm",
+        "changelog, https://tqdm.github.io/releases",
+        "wiki, https://github.com/tqdm/tqdm/wiki"
+      ]
+    },
+    {
+      "name": "transformers",
+      "version": "4.57.6",
+      "license": "Apache 2.0 License",
+      "home_page": "https://github.com/huggingface/transformers",
+      "project_urls": []
+    },
+    {
+      "name": "trio",
+      "version": "0.26.2",
+      "license": "MIT OR Apache-2.0",
+      "home_page": "",
+      "project_urls": [
+        "Homepage, https://github.com/python-trio/trio",
+        "Documentation, https://trio.readthedocs.io/",
+        "Changelog, https://trio.readthedocs.io/en/latest/history.html"
+      ]
+    },
+    {
+      "name": "trio-websocket",
+      "version": "0.11.1",
+      "license": "",
+      "home_page": "https://github.com/python-trio/trio-websocket",
+      "project_urls": [
+        "Bug Reports, https://github.com/python-trio/trio-websocket/issues",
+        "Source, https://github.com/python-trio/trio-websocket"
+      ]
+    },
+    {
+      "name": "typing-inspection",
+      "version": "0.4.2",
+      "license": "MIT",
+      "home_page": "",
+      "project_urls": [
+        "Homepage, https://github.com/pydantic/typing-inspection",
+        "Documentation, https://pydantic.github.io/typing-inspection/dev/",
+        "Source, https://github.com/pydantic/typing-inspection",
+        "Changelog, https://github.com/pydantic/typing-inspection/blob/main/HISTORY.md"
+      ]
+    },
+    {
+      "name": "typing_extensions",
+      "version": "4.15.0",
+      "license": "PSF-2.0",
+      "home_page": "",
+      "project_urls": [
+        "Bug Tracker, https://github.com/python/typing_extensions/issues",
+        "Changes, https://github.com/python/typing_extensions/blob/main/CHANGELOG.md",
+        "Documentation, https://typing-extensions.readthedocs.io/",
+        "Home, https://github.com/python/typing_extensions",
+        "Q & A, https://github.com/python/typing/discussions",
+        "Repository, https://github.com/python/typing_extensions"
+      ]
+    },
+    {
+      "name": "tzdata",
+      "version": "2025.3",
+      "license": "Apache-2.0",
+      "home_page": "https://github.com/python/tzdata",
+      "project_urls": [
+        "Bug Reports, https://github.com/python/tzdata/issues",
+        "Source, https://github.com/python/tzdata",
+        "Documentation, https://tzdata.readthedocs.io"
+      ]
+    },
+    {
+      "name": "urllib3",
+      "version": "1.26.20",
+      "license": "MIT",
+      "home_page": "https://urllib3.readthedocs.io/",
+      "project_urls": [
+        "Documentation, https://urllib3.readthedocs.io/",
+        "Code, https://github.com/urllib3/urllib3",
+        "Issue tracker, https://github.com/urllib3/urllib3/issues"
+      ]
+    },
+    {
+      "name": "watchdog",
+      "version": "6.0.0",
+      "license": "Apache-2.0",
+      "home_page": "https://github.com/gorakhargosh/watchdog",
+      "project_urls": [
+        "Documentation, https://python-watchdog.readthedocs.io/en/stable/",
+        "Source, https://github.com/gorakhargosh/watchdog/",
+        "Issues, https://github.com/gorakhargosh/watchdog/issues",
+        "Changelog, https://github.com/gorakhargosh/watchdog/blob/master/changelog.rst"
+      ]
+    },
+    {
+      "name": "wcwidth",
+      "version": "0.2.14",
+      "license": "MIT",
+      "home_page": "https://github.com/jquast/wcwidth",
+      "project_urls": []
+    },
+    {
+      "name": "websocket-client",
+      "version": "1.8.0",
+      "license": "Apache-2.0",
+      "home_page": "https://github.com/websocket-client/websocket-client.git",
+      "project_urls": [
+        "Documentation, https://websocket-client.readthedocs.io/",
+        "Source, https://github.com/websocket-client/websocket-client/"
+      ]
+    },
+    {
+      "name": "whisperx",
+      "version": "3.8.1",
+      "license": "BSD-2-Clause",
+      "home_page": "",
+      "project_urls": [
+        "repository, https://github.com/m-bain/whisperx"
+      ]
+    },
+    {
+      "name": "wsproto",
+      "version": "1.2.0",
+      "license": "MIT License",
+      "home_page": "https://github.com/python-hyper/wsproto/",
+      "project_urls": []
+    },
+    {
+      "name": "yarl",
+      "version": "1.22.0",
+      "license": "Apache-2.0",
+      "home_page": "https://github.com/aio-libs/yarl",
+      "project_urls": [
+        "Chat: Matrix, https://matrix.to/#/#aio-libs:matrix.org",
+        "Chat: Matrix Space, https://matrix.to/#/#aio-libs-space:matrix.org",
+        "CI: GitHub Workflows, https://github.com/aio-libs/yarl/actions?query=branch:master",
+        "Code of Conduct, https://github.com/aio-libs/.github/blob/master/CODE_OF_CONDUCT.md",
+        "Coverage: codecov, https://codecov.io/github/aio-libs/yarl",
+        "Docs: Changelog, https://yarl.aio-libs.org/en/latest/changes/",
+        "Docs: RTD, https://yarl.aio-libs.org",
+        "GitHub: issues, https://github.com/aio-libs/yarl/issues",
+        "GitHub: repo, https://github.com/aio-libs/yarl"
+      ]
+    },
+    {
+      "name": "zipp",
+      "version": "3.23.0",
+      "license": "MIT",
+      "home_page": "",
+      "project_urls": [
+        "Source, https://github.com/jaraco/zipp"
+      ]
+    }
+  ]
+}

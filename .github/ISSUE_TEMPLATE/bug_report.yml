@@ -1,0 +1,31 @@
+name: 问题反馈
+description: 报告可复现的问题（请先移除隐私信息）
+title: "[问题] "
+body:
+  - type: markdown
+    attributes:
+      value: "请勿上传 Token、未经授权的录音、私人路径或含个人信息的完整日志。"
+  - type: input
+    id: version
+    attributes:
+      label: 程序版本与包类型
+      placeholder: "例如 v0.1.0-beta.1，含模型版"
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: 系统、CPU/GPU 与所选档位
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤、预期结果和实际结果
+    validations:
+      required: true
+  - type: textarea
+    id: error
+    attributes:
+      label: 已移除隐私的报错或截图
+

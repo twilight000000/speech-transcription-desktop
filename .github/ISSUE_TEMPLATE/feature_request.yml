@@ -1,0 +1,14 @@
+name: 功能建议
+description: 说明你遇到的实际使用困难
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: 在什么场景下遇到了什么困难
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 期望如何改善
+

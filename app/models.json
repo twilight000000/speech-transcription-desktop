@@ -1,0 +1,121 @@
+{
+  "tiny": {
+    "repo": "Systran/faster-whisper-tiny",
+    "revision": "d90ca5fe260221311c53c58e660288d3deb8d356",
+    "license": "MIT",
+    "files": {
+      "config.json": {
+        "size": 2249,
+        "sha256": "a73a28cdfe1c43ccc7202fa333d1f89c202477271407ae9a7f19afa52039cac8"
+      },
+      "model.bin": {
+        "size": 75538270,
+        "sha256": "dcb76c6586fc06cbdac6dd21f14cfd129cc4cdd9dce19bf4ffa62e59cbe6e6d1"
+      },
+      "tokenizer.json": {
+        "size": 2203239,
+        "sha256": "fb7b63191e9bb045082c79fd742a3106a12c99513ab30df4a0d47fa6cb6fd0ab"
+      },
+      "vocabulary.txt": {
+        "size": 459861,
+        "sha256": "34ce3fe1c5041027b3f8d42912270993f986dbc4bb34cf27f951e34a1e453913"
+      }
+    }
+  },
+  "base": {
+    "repo": "Systran/faster-whisper-base",
+    "revision": "ebe41f70d5b6dfa9166e2c581c45c9c0cfc57b66",
+    "license": "MIT",
+    "files": {
+      "config.json": {
+        "size": 2309,
+        "sha256": "56a6d8110d311f19c8f0471e562832c7527f146b567275bfca59fcf7c184da9a"
+      },
+      "model.bin": {
+        "size": 145217532,
+        "sha256": "d01c3014881c9c6f3133c182f3d2887eb6ca1c789a7538c5c007196857a0a6a9"
+      },
+      "tokenizer.json": {
+        "size": 2203239,
+        "sha256": "fb7b63191e9bb045082c79fd742a3106a12c99513ab30df4a0d47fa6cb6fd0ab"
+      },
+      "vocabulary.txt": {
+        "size": 459861,
+        "sha256": "34ce3fe1c5041027b3f8d42912270993f986dbc4bb34cf27f951e34a1e453913"
+      }
+    }
+  },
+  "small": {
+    "repo": "Systran/faster-whisper-small",
+    "revision": "536b0662742c02347bc0e980a01041f333bce120",
+    "license": "MIT",
+    "files": {
+      "config.json": {
+        "size": 2370,
+        "sha256": "b55496ac7940a7ae47d2c01eab40edfd8701feec1229d9cce3b40014383fb828"
+      },
+      "model.bin": {
+        "size": 483546902,
+        "sha256": "3e305921506d8872816023e4c273e75d2419fb89b24da97b4fe7bce14170d671"
+      },
+      "tokenizer.json": {
+        "size": 2203239,
+        "sha256": "fb7b63191e9bb045082c79fd742a3106a12c99513ab30df4a0d47fa6cb6fd0ab"
+      },
+      "vocabulary.txt": {
+        "size": 459861,
+        "sha256": "34ce3fe1c5041027b3f8d42912270993f986dbc4bb34cf27f951e34a1e453913"
+      }
+    }
+  },
+  "medium": {
+    "repo": "Systran/faster-whisper-medium",
+    "revision": "08e178d48790749d25932bbc082711ddcfdfbc4f",
+    "license": "MIT",
+    "files": {
+      "config.json": {
+        "size": 2257,
+        "sha256": "3622a2ddc41ec0e0fd4e68c13c6830f03b90c38d89aaad184de02c8c642cf807"
+      },
+      "model.bin": {
+        "size": 1527906378,
+        "sha256": "9b45e1009dcc4ab601eff815b61d80e60ce3fd8c74c1a14f4a282258286b51ae"
+      },
+      "tokenizer.json": {
+        "size": 2203239,
+        "sha256": "fb7b63191e9bb045082c79fd742a3106a12c99513ab30df4a0d47fa6cb6fd0ab"
+      },
+      "vocabulary.txt": {
+        "size": 459861,
+        "sha256": "34ce3fe1c5041027b3f8d42912270993f986dbc4bb34cf27f951e34a1e453913"
+      }
+    }
+  },
+  "diarization": {
+    "repo": "pyannote/speaker-diarization-community-1",
+    "revision": "3533c8cf8e369892e6b79ff1bf80f7b0286a54ee",
+    "license": "CC-BY-4.0",
+    "files": {
+      "config.yaml": {
+        "size": 444,
+        "sha256": "5ce2bfa9a938dc132cec1172592d65173cbb8f444ea1e4133f10f9391de155be"
+      },
+      "embedding/pytorch_model.bin": {
+        "size": 26646242,
+        "sha256": "6f10ff60898a1d185fa22e1d11e0bfa8a92efec811f11bca48cb8cafebefd929"
+      },
+      "segmentation/pytorch_model.bin": {
+        "size": 5906507,
+        "sha256": "7ad24338d844fb95985486eb1a464e32d229f6d7a03c9abe60f978bacf3f816e"
+      },
+      "plda/plda.npz": {
+        "size": 133852,
+        "sha256": "9b77bcd840692710dd3496f62ecfeed8d8e5f002fd991b785079b244eab7d255"
+      },
+      "plda/xvec_transform.npz": {
+        "size": 134376,
+        "sha256": "325f1ce8e48f7e55e9c8aa47e05d2766b7c48c4b25b8de8dd751e7a4cc5fbe8f"
+      }
+    }
+  }
+}
