@@ -35,7 +35,7 @@ def excluded(rel: Path) -> bool:
         ("python", "chromedriver.exe"), ("python", "microsoftwebdriver.exe")
     }:
         return True
-    if parts[:2] == ("python", "scripts") and parts[-1].split(".")[0] == "streamlit":
+    if parts[:2] == ("python", "scripts"):
         return True
     if parts[:3] == ("python", "lib", "site-packages") and len(parts) >= 4:
         pkg = parts[3]
